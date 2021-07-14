@@ -1,6 +1,5 @@
 *.exe
 *.o
 .vscode/
-final-project/
 .git
 .gitignore
